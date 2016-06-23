@@ -5,7 +5,7 @@ Requires: matchbox chromium x11-xserver-utils ttf-mscorefonts-installer ttf-libe
 
 sudo apt-get update
 sudo apt-get dist-upgrade
-sudo apt-get install matchbox chromium x11-xserver-utils ttf-mscorefonts-installer ttf-liberation xwit sqlite3 libnss3
+sudo apt-get install matchbox firefox-esr x11-xserver-utils ttf-mscorefonts-installer ttf-liberation xwit libnss3
 sudo reboot
 
 
